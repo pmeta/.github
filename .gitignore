@@ -1,0 +1,10 @@
+
+*.tmp
+.idea/
+*.log
+.DS_Store
+*.swap
+*.swp
+*.so
+*.exe
+
